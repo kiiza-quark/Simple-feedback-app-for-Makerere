@@ -16,14 +16,14 @@ The Makerere University Feedback App is a simple web application built using Dja
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ### 2. Send Feedback Page
-![Send Feedback Page](screenshots/send.png)
+![Send Feedback Page](Screenshots/send.png)
 
 ### 3. Admin View Feedbacks Page
-![Admin View Feedbacks Page](screenshots/admin.png)
-![Admin View Feedbacks Page](screenshots/dark.png)
+![Admin View Feedbacks Page](Screenshots/admin.png)
+![Admin View Feedbacks Page](Screenshots/dark.png)
 
 
 ## Installation
